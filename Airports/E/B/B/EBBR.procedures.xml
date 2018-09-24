@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <Airport ICAOcode="EBBR">
+    <Sid Name="LNO5C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>1700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8872</Latitude>
+        <Longitude>4.4166</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8545</Latitude>
+        <Longitude>4.3727</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R287LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8173</Latitude>
+        <Longitude>4.3958</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.58583300</Latitude>
+        <Longitude>5.71027800</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SPI5C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>1700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8872</Latitude>
+        <Longitude>4.4166</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8545</Latitude>
+        <Longitude>4.3727</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R287LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8173</Latitude>
+        <Longitude>4.3958</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R295SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7365</Latitude>
+        <Longitude>4.8657</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.51472200</Latitude>
+        <Longitude>5.62333300</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="ROUSY7C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>1700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8872</Latitude>
+        <Longitude>4.4166</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8545</Latitude>
+        <Longitude>4.3727</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTURN</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8173</Latitude>
+        <Longitude>4.3958</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>HUL</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7495</Latitude>
+        <Longitude>4.6416</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>REMBA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6622</Latitude>
+        <Longitude>4.9141</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>RITAX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.07777778</Latitude>
+        <Longitude>5.80694444</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>ROUSY</Name>
+        <Type>Normal</Type>
+        <Latitude>49.47638889</Latitude>
+        <Longitude>6.11500000</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SOPOK8C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>1700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8872</Latitude>
+        <Longitude>4.4166</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8545</Latitude>
+        <Longitude>4.3727</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTURN</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8173</Latitude>
+        <Longitude>4.3958</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>HUL</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7495</Latitude>
+        <Longitude>4.6416</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>REMBA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6622</Latitude>
+        <Longitude>4.9141</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>BULUX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.59277778</Latitude>
+        <Longitude>5.25111111</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>SOPOK</Name>
+        <Type>Normal</Type>
+        <Latitude>50.25277778</Latitude>
+        <Longitude>5.77388889</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="PITES7C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>1700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8872</Latitude>
+        <Longitude>4.4166</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8545</Latitude>
+        <Longitude>4.3727</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTURN</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8173</Latitude>
+        <Longitude>4.3958</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>HUL</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7495</Latitude>
+        <Longitude>4.6416</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>REMBA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6622</Latitude>
+        <Longitude>4.9141</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>RITAX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.07777778</Latitude>
+        <Longitude>5.80694444</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>DIK</Name>
+        <Type>Normal</Type>
+        <Latitude>49.86111111</Latitude>
+        <Longitude>6.12972222</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>PITES</Name>
+        <Type>Normal</Type>
+        <Latitude>49.72861111</Latitude>
+        <Longitude>6.51944444</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="CIV4C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8950</Latitude>
+        <Longitude>4.4426</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>HDG292</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8970</Latitude>
+        <Longitude>4.4146</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R273BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9040</Latitude>
+        <Longitude>4.3897</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R041CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9040</Latitude>
+        <Longitude>4.3126</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>R041CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8962</Latitude>
+        <Longitude>4.2626</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5739</Latitude>
+        <Longitude>3.8328</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="DENUT4C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8950</Latitude>
+        <Longitude>4.4426</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>HDG297</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8970</Latitude>
+        <Longitude>4.4146</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R278BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9131</Latitude>
+        <Longitude>4.3668</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R308HUL</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9178</Latitude>
+        <Longitude>4.2998</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>DENUT</Name>
+        <Type>Normal</Type>
+        <Latitude>51.23611111</Latitude>
+        <Longitude>3.65750000</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="KOK4C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8950</Latitude>
+        <Longitude>4.4426</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>HDG292</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8970</Latitude>
+        <Longitude>4.4146</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R273BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9040</Latitude>
+        <Longitude>4.3897</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R280BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9295</Latitude>
+        <Longitude>4.2898</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>KOK</Name>
+        <Type>Normal</Type>
+        <Latitude>51.09472222</Latitude>
+        <Longitude>2.65166667</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="NIK3C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8950</Latitude>
+        <Longitude>4.4426</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>HDG292</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8970</Latitude>
+        <Longitude>4.4146</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R273BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9040</Latitude>
+        <Longitude>4.3897</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>NIK</Name>
+        <Type>Normal</Type>
+        <Latitude>51.1650</Latitude>
+        <Longitude>4.1838</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="HELEN6C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8950</Latitude>
+        <Longitude>4.4426</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>HDG292</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8970</Latitude>
+        <Longitude>4.4146</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R273BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9040</Latitude>
+        <Longitude>4.3897</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>HELEN</Name>
+        <Type>Normal</Type>
+        <Latitude>51.2353</Latitude>
+        <Longitude>3.8697</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="ELSIK3C" Runways="25R">
+      <Sid_Waypoint ID="1">
+        <Name>700ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8950</Latitude>
+        <Longitude>4.4426</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>HDG292</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8970</Latitude>
+        <Longitude>4.4146</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9123</Latitude>
+        <Longitude>4.3867</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9405</Latitude>
+        <Longitude>4.3839</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>BUN</Name>
+        <Type>Normal</Type>
+        <Latitude>51.1186</Latitude>
+        <Longitude>4.8420</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>ELSIK</Name>
+        <Type>Normal</Type>
+        <Latitude>51.19500000</Latitude>
+        <Longitude>4.99861111</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="LNO5J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DME44BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9384</Latitude>
+        <Longitude>4.6371</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R068BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9402</Latitude>
+        <Longitude>4.6735</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DME8BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9562</Latitude>
+        <Longitude>4.7303</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9595</Latitude>
+        <Longitude>4.7657</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R140ANT</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9567</Latitude>
+        <Longitude>4.7827</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>R174BUN</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8816</Latitude>
+        <Longitude>4.8814</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>REMBA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6622</Latitude>
+        <Longitude>4.9141</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.58583300</Latitude>
+        <Longitude>5.71027800</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SPI5J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DME44BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9384</Latitude>
+        <Longitude>4.6371</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R068BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9402</Latitude>
+        <Longitude>4.6735</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DME8BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9562</Latitude>
+        <Longitude>4.7303</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9595</Latitude>
+        <Longitude>4.7657</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R140ANT</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9567</Latitude>
+        <Longitude>4.7827</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>R174BUN</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8816</Latitude>
+        <Longitude>4.8814</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>REMBA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6622</Latitude>
+        <Longitude>4.9141</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.51472200</Latitude>
+        <Longitude>5.62333300</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="ROUSY7J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DME44BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9384</Latitude>
+        <Longitude>4.6371</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R068BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9402</Latitude>
+        <Longitude>4.6735</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DME8BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9562</Latitude>
+        <Longitude>4.7303</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9595</Latitude>
+        <Longitude>4.7657</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R140ANT</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9567</Latitude>
+        <Longitude>4.7827</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>R174BUN</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8816</Latitude>
+        <Longitude>4.8814</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>REMBA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6622</Latitude>
+        <Longitude>4.9141</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>RITAX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.07777778</Latitude>
+        <Longitude>5.80694444</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="10">
+        <Name>ROUSY</Name>
+        <Type>Normal</Type>
+        <Latitude>49.47638889</Latitude>
+        <Longitude>6.11500000</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="ELSIK2J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DME44BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9384</Latitude>
+        <Longitude>4.6371</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>BUN</Name>
+        <Type>Normal</Type>
+        <Latitude>51.1186</Latitude>
+        <Longitude>4.8420</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>ELSIK</Name>
+        <Type>Normal</Type>
+        <Latitude>51.19500000</Latitude>
+        <Longitude>4.99861111</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="CIV7J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DME44BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9384</Latitude>
+        <Longitude>4.6371</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R068BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9402</Latitude>
+        <Longitude>4.6735</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DME8BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9562</Latitude>
+        <Longitude>4.7303</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9595</Latitude>
+        <Longitude>4.7657</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>HDG157</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8967</Latitude>
+        <Longitude>4.8145</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>R064CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.8857</Latitude>
+        <Longitude>4.8130</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5739</Latitude>
+        <Longitude>3.8328</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="NIK2J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>1800ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9186</Latitude>
+        <Longitude>4.5817</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9358</Latitude>
+        <Longitude>4.5930</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9491</Latitude>
+        <Longitude>4.5811</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>NIK</Name>
+        <Type>Normal</Type>
+        <Latitude>51.1650</Latitude>
+        <Longitude>4.1838</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="KOK2J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>1800ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9186</Latitude>
+        <Longitude>4.5817</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9358</Latitude>
+        <Longitude>4.5930</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9491</Latitude>
+        <Longitude>4.5811</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>KOK</Name>
+        <Type>Normal</Type>
+        <Latitude>51.09472222</Latitude>
+        <Longitude>2.65166667</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="DENUT2J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>1800ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9186</Latitude>
+        <Longitude>4.5817</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9358</Latitude>
+        <Longitude>4.5930</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9491</Latitude>
+        <Longitude>4.5811</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>DENUT</Name>
+        <Type>Normal</Type>
+        <Latitude>51.23611111</Latitude>
+        <Longitude>3.65750000</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="HELEN2J" Runways="07R">
+      <Sid_Waypoint ID="1">
+        <Name>BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.90222222</Latitude>
+        <Longitude>4.53805556</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>1800ft</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9186</Latitude>
+        <Longitude>4.5817</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9358</Latitude>
+        <Longitude>4.5930</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.9491</Latitude>
+        <Longitude>4.5811</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>HELEN</Name>
+        <Type>Normal</Type>
+        <Latitude>51.2353</Latitude>
+        <Longitude>3.8697</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+</Airport>

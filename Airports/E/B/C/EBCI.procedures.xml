@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <Airport ICAOcode="EBCI">
+    <Sid Name="LNO6Y" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4134</Latitude>
+        <Longitude>4.2664</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>HDG335</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4258</Latitude>
+        <Longitude>4.2499</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R209BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4855</Latitude>
+        <Longitude>4.2057</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>R245FLO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6024</Latitude>
+        <Longitude>4.2982</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R283BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7226</Latitude>
+        <Longitude>4.6612</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.58583300</Latitude>
+        <Longitude>5.71027800</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SPI6Y" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4134</Latitude>
+        <Longitude>4.2664</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>HDG335</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4258</Latitude>
+        <Longitude>4.2499</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R209BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4855</Latitude>
+        <Longitude>4.2057</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>R245FLO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6024</Latitude>
+        <Longitude>4.2982</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R287SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7066</Latitude>
+        <Longitude>4.6123</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.51472200</Latitude>
+        <Longitude>5.62333300</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="LNO2U" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3816</Latitude>
+        <Longitude>4.2589</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3255</Latitude>
+        <Longitude>4.2830</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R257SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3190</Latitude>
+        <Longitude>4.3452</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>ASPIX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.48527778</Latitude>
+        <Longitude>5.41638889</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.58583300</Latitude>
+        <Longitude>5.71027800</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SPI2U" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3816</Latitude>
+        <Longitude>4.2589</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3255</Latitude>
+        <Longitude>4.2830</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R257SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3190</Latitude>
+        <Longitude>4.3452</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.51472200</Latitude>
+        <Longitude>5.62333300</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="MEDIL2Y" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME8GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>MEDIL</Name>
+        <Type>Normal</Type>
+        <Latitude>50.34222222</Latitude>
+        <Longitude>3.67500000</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="CIV3Y" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>R121CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4132</Latitude>
+        <Longitude>4.2665</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5739</Latitude>
+        <Longitude>3.8328</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="RITAX2U" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3816</Latitude>
+        <Longitude>4.2589</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3255</Latitude>
+        <Longitude>4.2830</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R257SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.3190</Latitude>
+        <Longitude>4.3452</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>DME18SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4479</Latitude>
+        <Longitude>5.1750</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R316DIK</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4422</Latitude>
+        <Longitude>5.2145</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>RITAX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.07777778</Latitude>
+        <Longitude>5.80694444</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="RITAX6Y" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>DME6GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4119</Latitude>
+        <Longitude>4.3008</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4134</Latitude>
+        <Longitude>4.2664</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>HDG335</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4258</Latitude>
+        <Longitude>4.2499</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>R209BUB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.4855</Latitude>
+        <Longitude>4.2057</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>R245FLO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6024</Latitude>
+        <Longitude>4.2982</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>R287SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.7066</Latitude>
+        <Longitude>4.6123</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>R316DIK</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6599</Latitude>
+        <Longitude>4.8631</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>RITAX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.07777778</Latitude>
+        <Longitude>5.80694444</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="CIV4X" Runways="07">
+      <Sid_Waypoint ID="1">
+        <Name>DME7GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5277</Latitude>
+        <Longitude>4.5846</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5542</Latitude>
+        <Longitude>4.6061</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5811</Latitude>
+        <Longitude>4.6026</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>LTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6064</Latitude>
+        <Longitude>4.5710</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>DCTCIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6154</Latitude>
+        <Longitude>4.5019</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>CIV</Name>
+        <Type>Normal</Type>
+        <Latitude>50.5739</Latitude>
+        <Longitude>3.8328</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SPI5X" Runways="07">
+      <Sid_Waypoint ID="1">
+        <Name>DME18GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6469</Latitude>
+        <Longitude>4.8176</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6562</Latitude>
+        <Longitude>4.8455</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R287SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6586</Latitude>
+        <Longitude>4.8708</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.51472200</Latitude>
+        <Longitude>5.62333300</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="RITAX5X" Runways="07">
+      <Sid_Waypoint ID="1">
+        <Name>DME18GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6425</Latitude>
+        <Longitude>4.8090</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>R315DIK</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6417</Latitude>
+        <Longitude>4.8477</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>RITAX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.07777778</Latitude>
+        <Longitude>5.80694444</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SOPOK5X" Runways="07">
+      <Sid_Waypoint ID="1">
+        <Name>DME18GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6469</Latitude>
+        <Longitude>4.8176</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>RTurn</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6562</Latitude>
+        <Longitude>4.8455</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>R287SPI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6586</Latitude>
+        <Longitude>4.8708</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>BULUX</Name>
+        <Type>Normal</Type>
+        <Latitude>50.59277778</Latitude>
+        <Longitude>5.25138889</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>SOPOK</Name>
+        <Type>Normal</Type>
+        <Latitude>50.25277778</Latitude>
+        <Longitude>5.77388889</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="LNO5X" Runways="07">
+      <Sid_Waypoint ID="1">
+        <Name>DME22GSY</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6828</Latitude>
+        <Longitude>4.8874</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>R283LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.6885</Latitude>
+        <Longitude>4.9301</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>LNO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.58583300</Latitude>
+        <Longitude>5.71027800</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Star Name="LNO4B" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>LNO</Name>
+         <Type>Normal</Type>
+         <Latitude>50.58583300</Latitude>
+         <Longitude>5.71027800</Longitude>
+         <Speed>0</Speed>
+         <Altitude>16000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>below</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="2">
+         <Name>LOLGI</Name>
+         <Type>Normal</Type>
+         <Latitude>50.66277778</Latitude>
+         <Longitude>5.15361111</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+          <Name>D25GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.6282</Latitude>
+          <Longitude>5.0338</Longitude>
+          <Speed>0</Speed>
+          <Altitude>7000</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>below</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="BATTY4B" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>BATTY</Name>
+         <Type>Normal</Type>
+         <Latitude>50.64916667</Latitude>
+         <Longitude>5.84888889</Longitude>
+         <Speed>0</Speed>
+         <Altitude>16000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>below</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="2">
+         <Name>LOLGI</Name>
+         <Type>Normal</Type>
+         <Latitude>50.66277778</Latitude>
+         <Longitude>5.15361111</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+          <Name>D25GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.6282</Latitude>
+          <Longitude>5.0338</Longitude>
+          <Speed>0</Speed>
+          <Altitude>7000</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>below</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="NIK3A" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>NIK</Name>
+         <Type>Normal</Type>
+         <Latitude>51.1650</Latitude>
+         <Longitude>4.1838</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="2">
+         <Name>KERKY</Name>
+         <Type>Normal</Type>
+         <Latitude>50.92694444</Latitude>
+         <Longitude>3.99250000</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+         <Name>NIVOR</Name>
+         <Type>Normal</Type>
+         <Latitude>50.69388889</Latitude>
+         <Longitude>4.29083333</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="4">
+          <Name>GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.45388889</Latitude>
+          <Longitude>4.44138889</Longitude>
+          <Speed>0</Speed>
+          <Altitude>0</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="KOK3A" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>KOK</Name>
+         <Type>Normal</Type>
+         <Latitude>51.09472222</Latitude>
+         <Longitude>2.65166667</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="2">
+         <Name>KERKY</Name>
+         <Type>Normal</Type>
+         <Latitude>50.92694444</Latitude>
+         <Longitude>3.99250000</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+         <Name>NIVOR</Name>
+         <Type>Normal</Type>
+         <Latitude>50.69388889</Latitude>
+         <Longitude>4.29083333</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="4">
+          <Name>GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.45388889</Latitude>
+          <Longitude>4.44138889</Longitude>
+          <Speed>0</Speed>
+          <Altitude>0</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="ARVOL3A" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>ARVOL</Name>
+         <Type>Normal</Type>
+         <Latitude>50.54583333</Latitude>
+         <Longitude>3.49694444</Longitude>
+         <Speed>0</Speed>
+         <Altitude>16000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>below</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="2">
+         <Name>NIVOR</Name>
+         <Type>Normal</Type>
+         <Latitude>50.69388889</Latitude>
+         <Longitude>4.29083333</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+          <Name>GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.45388889</Latitude>
+          <Longitude>4.44138889</Longitude>
+          <Speed>0</Speed>
+          <Altitude>0</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="CIV3A" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>CIV</Name>
+         <Type>Normal</Type>
+         <Latitude>50.5739</Latitude>
+         <Longitude>3.8328</Longitude>
+         <Speed>0</Speed>
+         <Altitude>16000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>below</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="2">
+         <Name>NIVOR</Name>
+         <Type>Normal</Type>
+         <Latitude>50.69388889</Latitude>
+         <Longitude>4.29083333</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+          <Name>GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.45388889</Latitude>
+          <Longitude>4.44138889</Longitude>
+          <Speed>0</Speed>
+          <Altitude>0</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="BATTY3A" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>BATTY</Name>
+         <Type>Normal</Type>
+         <Latitude>50.64916667</Latitude>
+         <Longitude>5.84888889</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="2">
+         <Name>FLO</Name>
+         <Type>Normal</Type>
+         <Latitude>50.87666667</Latitude>
+         <Longitude>5.13444444</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+         <Name>BUB</Name>
+         <Type>Normal</Type>
+         <Latitude>50.90222222</Latitude>
+         <Longitude>4.53805556</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="4">
+         <Name>NIVOR</Name>
+         <Type>Normal</Type>
+         <Latitude>50.69388889</Latitude>
+         <Longitude>4.29083333</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="5">
+          <Name>GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.45388889</Latitude>
+          <Longitude>4.44138889</Longitude>
+          <Speed>0</Speed>
+          <Altitude>0</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+    <Star Name="LNO3A" Runways="07,25">
+     <App_Waypoint ID="1">
+         <Name>LNO</Name>
+         <Type>Normal</Type>
+         <Latitude>50.58583300</Latitude>
+         <Longitude>5.71027800</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="2">
+         <Name>FLO</Name>
+         <Type>Normal</Type>
+         <Latitude>50.87666667</Latitude>
+         <Longitude>5.13444444</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="3">
+         <Name>BUB</Name>
+         <Type>Normal</Type>
+         <Latitude>50.90222222</Latitude>
+         <Longitude>4.53805556</Longitude>
+         <Speed>0</Speed>
+         <Altitude>0</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="4">
+         <Name>NIVOR</Name>
+         <Type>Normal</Type>
+         <Latitude>50.69388889</Latitude>
+         <Longitude>4.29083333</Longitude>
+         <Speed>0</Speed>
+         <Altitude>8000</Altitude>
+         <AltitudeCons>0</AltitudeCons>
+         <AltitudeRestriction>above</AltitudeRestriction>
+     </App_Waypoint>
+     <App_Waypoint ID="5">
+          <Name>GSY</Name>
+          <Type>Normal</Type>
+          <Latitude>50.45388889</Latitude>
+          <Longitude>4.44138889</Longitude>
+          <Speed>0</Speed>
+          <Altitude>0</Altitude>
+          <AltitudeCons>0</AltitudeCons>
+          <AltitudeRestriction>0</AltitudeRestriction>
+     </App_Waypoint>
+    </Star>
+</Airport>
