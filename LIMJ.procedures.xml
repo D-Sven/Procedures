@@ -1,0 +1,2336 @@
+<ProceduresDB build='By Sven Seipp Dec 2022'>
+	<Airport ICAOcode="LIMJ">
+		<Sid Name="LAGEN8K10" Runways="10">
+			<Sid_Waypoint ID="1">
+				<Name>SES/D3</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4024</Latitude>
+				<Longitude>8.8904</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>SES/R180</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3038</Latitude>
+				<Longitude>8.8157</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ANAKI</Name>
+				<Type>Normal</Type>
+				<Latitude>44.201167</Latitude>
+				<Longitude>8.725500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>LAGEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.394167</Latitude>
+				<Longitude>8.498167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="LAGEN8K28" Runways="28">
+			<Sid_Waypoint ID="1">
+				<Name>SES/D15</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4222</Latitude>
+				<Longitude>8.7899</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>SES/R180</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3329</Latitude>
+				<Longitude>8.8173</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ANAKI</Name>
+				<Type>Normal</Type>
+				<Latitude>44.201167</Latitude>
+				<Longitude>8.725500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>LAGEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.394167</Latitude>
+				<Longitude>8.498167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="GEN8K10" Runways="10">
+			<Sid_Waypoint ID="1">
+				<Name>SES/D3</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4024</Latitude>
+				<Longitude>8.8904</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>SES/R180</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3038</Latitude>
+				<Longitude>8.8157</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ANAKI</Name>
+				<Type>Normal</Type>
+				<Latitude>44.201167</Latitude>
+				<Longitude>8.725500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="GEN8K28" Runways="28">
+			<Sid_Waypoint ID="1">
+				<Name>SES/D15</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4222</Latitude>
+				<Longitude>8.7899</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>SES/R180</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3329</Latitude>
+				<Longitude>8.8173</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ANAKI</Name>
+				<Type>Normal</Type>
+				<Latitude>44.201167</Latitude>
+				<Longitude>8.725500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="UNITA8K10" Runways="10">
+			<Sid_Waypoint ID="1">
+				<Name>SES/D3</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4024</Latitude>
+				<Longitude>8.8904</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>SES/R180</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3038</Latitude>
+				<Longitude>8.8157</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>UNITA</Name>
+				<Type>Normal</Type>
+				<Latitude>43.944333</Latitude>
+				<Longitude>9.025000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="UNITA8K28" Runways="28">
+			<Sid_Waypoint ID="1">
+				<Name>SES/D15</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4222</Latitude>
+				<Longitude>8.7899</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>SES/R180</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3329</Latitude>
+				<Longitude>8.8173</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>UNITA</Name>
+				<Type>Normal</Type>
+				<Latitude>43.944333</Latitude>
+				<Longitude>9.025000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Star Name="ABN2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>ABN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.056000</Latitude>
+				<Longitude>8.221000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>MJ408</Name>
+				<Type>Normal</Type>
+				<Latitude>44.112500</Latitude>
+				<Longitude>8.335500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>10000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>MJ401</Name>
+				<Type>Normal</Type>
+				<Latitude>44.225500</Latitude>
+				<Longitude>8.566167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="GOLAS2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>GOLAS</Name>
+				<Type>Normal</Type>
+				<Latitude>44.455000</Latitude>
+				<Longitude>9.617500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>RIVAP</Name>
+				<Type>Normal</Type>
+				<Latitude>44.283333</Latitude>
+				<Longitude>9.348833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>MJ401</Name>
+				<Type>Normal</Type>
+				<Latitude>44.225500</Latitude>
+				<Longitude>8.566167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="IDONA2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>IDONA</Name>
+				<Type>Normal</Type>
+				<Latitude>43.985000</Latitude>
+				<Longitude>9.430833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>MJ401</Name>
+				<Type>Normal</Type>
+				<Latitude>44.225500</Latitude>
+				<Longitude>8.566167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="KALMO2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>KALMO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.321667</Latitude>
+				<Longitude>9.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="1">
+				<Name>MJ409</Name>
+				<Type>Normal</Type>
+				<Latitude>44.271167</Latitude>
+				<Longitude>9.460667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>LULET</Name>
+				<Type>Normal</Type>
+				<Latitude>44.216167</Latitude>
+				<Longitude>9.316333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>MJ401</Name>
+				<Type>Normal</Type>
+				<Latitude>44.225500</Latitude>
+				<Longitude>8.566167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="UNITA2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>UNITA</Name>
+				<Type>Normal</Type>
+				<Latitude>43.944333</Latitude>
+				<Longitude>9.025000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>MJ411</Name>
+				<Type>Normal</Type>
+				<Latitude>43.993500</Latitude>
+				<Longitude>8.904333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>MJ402</Name>
+				<Type>Normal</Type>
+				<Latitude>44.064167</Latitude>
+				<Longitude>8.728833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>MJ401</Name>
+				<Type>Normal</Type>
+				<Latitude>44.225500</Latitude>
+				<Longitude>8.566167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="VOG2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>VOG</Name>
+				<Type>Normal</Type>
+				<Latitude>44.964500</Latitude>
+				<Longitude>8.970167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES</Name>
+				<Type>Normal</Type>
+				<Latitude>44.417333</Latitude>
+				<Longitude>8.823667</Longitude>
+				<Speed>210</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>MJ403</Name>
+				<Type>Normal</Type>
+				<Latitude>44.268167</Latitude>
+				<Longitude>8.702167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="TESTO2P" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>TESTO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.597333</Latitude>
+				<Longitude>8.665667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>MJ404</Name>
+				<Type>Normal</Type>
+				<Latitude>44.526667</Latitude>
+				<Longitude>8.727667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES</Name>
+				<Type>Normal</Type>
+				<Latitude>44.417333</Latitude>
+				<Longitude>8.823667</Longitude>
+				<Speed>210</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>MJ403</Name>
+				<Type>Normal</Type>
+				<Latitude>44.268167</Latitude>
+				<Longitude>8.702167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="IXITO" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>MJ401</Name>
+				<Type>Normal</Type>
+				<Latitude>44.225500</Latitude>
+				<Longitude>8.566167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="KALMO2W" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>KALMO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.321667</Latitude>
+				<Longitude>9.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>MJ406</Name>
+				<Type>Normal</Type>
+				<Latitude>44.371333</Latitude>
+				<Longitude>9.348333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES</Name>
+				<Type>Normal</Type>
+				<Latitude>44.417333</Latitude>
+				<Longitude>8.823667</Longitude>
+				<Speed>210</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>MJ403</Name>
+				<Type>Normal</Type>
+				<Latitude>44.268167</Latitude>
+				<Longitude>8.702167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="GOLAS2W" Runways="10">
+			<Star_Waypoint ID="1">
+				<Name>GOLAS</Name>
+				<Type>Normal</Type>
+				<Latitude>44.455000</Latitude>
+				<Longitude>9.617500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>MJ407</Name>
+				<Type>Normal</Type>
+				<Latitude>44.437000</Latitude>
+				<Longitude>9.292667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>9000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES</Name>
+				<Type>Normal</Type>
+				<Latitude>44.417333</Latitude>
+				<Longitude>8.823667</Longitude>
+				<Speed>210</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>MJ403</Name>
+				<Type>Normal</Type>
+				<Latitude>44.268167</Latitude>
+				<Longitude>8.702167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>210</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="ABN2F" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>ABN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.056000</Latitude>
+				<Longitude>8.221000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/D28</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1359</Latitude>
+				<Longitude>9.3423</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="ABN2D" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>ABN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.056000</Latitude>
+				<Longitude>8.221000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>SES</Name>
+				<Type>Normal</Type>
+				<Latitude>44.417333</Latitude>
+				<Longitude>8.823667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="GOLAS3A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>GOLAS</Name>
+				<Type>Normal</Type>
+				<Latitude>44.455000</Latitude>
+				<Longitude>9.617500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>SES/R83</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4470</Latitude>
+				<Longitude>9.4501</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/R102</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3452</Latitude>
+				<Longitude>9.4436</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES/R117</Name>
+				<Type>Normal</Type>
+				<Latitude>44.2049</Latitude>
+				<Longitude>9.3754</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>SES/R132</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1039</Latitude>
+				<Longitude>9.2728</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="IDONA3A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>IDONA</Name>
+				<Type>Normal</Type>
+				<Latitude>43.985000</Latitude>
+				<Longitude>9.430833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="KALMO3A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>KALMO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.321667</Latitude>
+				<Longitude>9.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>BARMO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.334167</Latitude>
+				<Longitude>9.531667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/R98</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3452</Latitude>
+				<Longitude>9.4436</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES/R117</Name>
+				<Type>Normal</Type>
+				<Latitude>44.2049</Latitude>
+				<Longitude>9.3754</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>SES/R132</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1039</Latitude>
+				<Longitude>9.2728</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="UNITA3A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>UNITA</Name>
+				<Type>Normal</Type>
+				<Latitude>43.944333</Latitude>
+				<Longitude>9.025000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>SES/R149</Name>
+				<Type>Normal</Type>
+				<Latitude>44.0271</Latitude>
+				<Longitude>9.1355</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/R132</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1039</Latitude>
+				<Longitude>9.2728</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="VOG2F" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>VOG</Name>
+				<Type>Normal</Type>
+				<Latitude>44.964500</Latitude>
+				<Longitude>8.970167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>11000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/D28</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1359</Latitude>
+				<Longitude>9.3423</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="TESTO2F" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>TESTO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.597333</Latitude>
+				<Longitude>8.665667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>GEN</Name>
+				<Type>Normal</Type>
+				<Latitude>44.424333</Latitude>
+				<Longitude>9.082333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/D28</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1359</Latitude>
+				<Longitude>9.3423</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="TESTO2C" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>TESTO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.597333</Latitude>
+				<Longitude>8.665667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>SES</Name>
+				<Type>Normal</Type>
+				<Latitude>44.417333</Latitude>
+				<Longitude>8.823667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="IXITO2A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>SES/D22</Name>
+				<Type>Normal</Type>
+				<Latitude>44.0515</Latitude>
+				<Longitude>8.7970</Longitude>
+				<Speed>210</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/R165</Name>
+				<Type>Normal</Type>
+				<Latitude>43.9801</Latitude>
+				<Longitude>8.9736</Longitude>
+				<Speed>210</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES/R149</Name>
+				<Type>Normal</Type>
+				<Latitude>44.0271</Latitude>
+				<Longitude>9.1355</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>SES/R132</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1039</Latitude>
+				<Longitude>9.2728</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="LIN3A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>LIN</Name>
+				<Type>Normal</Type>
+				<Latitude>45.449500</Latitude>
+				<Longitude>9.278333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>LIMBA</Name>
+				<Type>Normal</Type>
+				<Latitude>44.926667</Latitude>
+				<Longitude>9.332667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/R55</Name>
+				<Type>Normal</Type>
+				<Latitude>44.6677</Latitude>
+				<Longitude>9.3465</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES/R70</Name>
+				<Type>Normal</Type>
+				<Latitude>44.5625</Latitude>
+				<Longitude>9.4187</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>SES/R83</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4470</Latitude>
+				<Longitude>9.4501</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>SES/R102</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3452</Latitude>
+				<Longitude>9.4436</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="7">
+				<Name>SES/R117</Name>
+				<Type>Normal</Type>
+				<Latitude>44.2049</Latitude>
+				<Longitude>9.3754</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="8">
+				<Name>SES/R132</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1039</Latitude>
+				<Longitude>9.2728</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="9">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="PIKOT3A" Runways="10, 28">
+			<Star_Waypoint ID="1">
+				<Name>PIKOT</Name>
+				<Type>Normal</Type>
+				<Latitude>45.187000</Latitude>
+				<Longitude>9.737167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>GEN/D22</Name>
+				<Type>Normal</Type>
+				<Latitude>44.7292</Latitude>
+				<Longitude>9.3394</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="3">
+				<Name>SES/R55</Name>
+				<Type>Normal</Type>
+				<Latitude>44.6677</Latitude>
+				<Longitude>9.3465</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="4">
+				<Name>SES/R70</Name>
+				<Type>Normal</Type>
+				<Latitude>44.5625</Latitude>
+				<Longitude>9.4187</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+			<Star_Waypoint ID="5">
+				<Name>SES/R83</Name>
+				<Type>Normal</Type>
+				<Latitude>44.4470</Latitude>
+				<Longitude>9.4501</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="6">
+				<Name>SES/R102</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3452</Latitude>
+				<Longitude>9.4436</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="7">
+				<Name>SES/R117</Name>
+				<Type>Normal</Type>
+				<Latitude>44.2049</Latitude>
+				<Longitude>9.3754</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="8">
+				<Name>SES/R132</Name>
+				<Type>Normal</Type>
+				<Latitude>44.1039</Latitude>
+				<Longitude>9.2728</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+                        </Star_Waypoint>
+			<Star_Waypoint ID="9">
+				<Name>GIKUT</Name>
+				<Type>Normal</Type>
+				<Latitude>44.172000</Latitude>
+				<Longitude>9.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Star_Waypoint>
+		</Star>
+		<Approach Name="RNPA10">
+			<App_Waypoint ID="1">
+				<Name>ECLOZ</Name>
+				<Type>Normal</Type>
+				<Latitude>44.289833</Latitude>
+				<Longitude>8.590333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>MJ812</Name>
+				<Type>Normal</Type>
+				<Latitude>44.351000</Latitude>
+				<Longitude>8.613000</Longitude>
+				<Speed>200</Speed>
+				<Altitude>3700</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>MJ813</Name>
+				<Type>Normal</Type>
+				<Latitude>44.379333</Latitude>
+				<Longitude>8.681333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2500</Altitude>
+				<AltitudeCons>200</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+                        <App_Waypoint ID="4">
+				<Name>MJ814</Name>
+				<Type>Normal</Type>
+				<Latitude>44.408667</Latitude>
+				<Longitude>8.752833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1250</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW10</Name>
+				<Type>Runway</Type>
+				<Latitude>44.415327</Latitude>
+				<Longitude>8.824746</Longitude>
+				<Speed>0</Speed>
+				<Altitude>13</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+                        <App_Waypoint ID="6">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+		</Approach>
+		<Approach Name="RNPA28">
+			<App_Waypoint ID="1">
+				<Name>MJ501</Name>
+				<Type>Normal</Type>
+				<Latitude>44.334333</Latitude>
+				<Longitude>9.233667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>MJ502</Name>
+				<Type>Normal</Type>
+				<Latitude>44.366333</Latitude>
+				<Longitude>9.073000</Longitude>
+				<Speed>200</Speed>
+				<Altitude>3300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>THR/D5.7</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3837</Latitude>
+				<Longitude>8.9855</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2000</Altitude>
+				<AltitudeCons>200</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+                        <App_Waypoint ID="4">
+				<Name>MJ503</Name>
+				<Type>Normal</Type>
+				<Latitude>44.406667</Latitude>
+				<Longitude>8.868833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW28</Name>
+				<Type>Runway</Type>
+				<Latitude>44.408926</Latitude>
+				<Longitude>8.857414</Longitude>
+				<Speed>0</Speed>
+				<Altitude>13</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+                        <App_Waypoint ID="6">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>185</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+		</Approach>
+		<Approach Name="ILSZ28">
+			<App_Waypoint ID="1">
+				<Name>GSE/D18</Name>
+				<Type>Normal</Type>
+				<Latitude>44.322306</Latitude>
+				<Longitude>9.253583</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>GSE/D10</Name>
+				<Type>Normal</Type>
+				<Latitude>44.361472</Latitude>
+				<Longitude>9.075972</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3370</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>GSE/D6</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3824</Latitude>
+				<Longitude>8.9798</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2026</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW28</Name>
+				<Type>Runway</Type>
+                                <Latitude>44.408926</Latitude>
+				<Longitude>8.857414</Longitude>
+				<Speed>0</Speed>
+				<Altitude>13</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>IXITO</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>210</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+			<App_Transition Name="GIKUT">
+                                <AppTr_Waypoint ID="1">
+					<Name>GIKUT</Name>
+					<Type>Normal</Type>
+					<Latitude>44.172000</Latitude>
+					<Longitude>9.171167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>GSE/ARC18</Name>
+					<Type>Normal</Type>
+					<Latitude>44.2314</Latitude>
+					<Longitude>9.1799</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>SES/R110</Name>
+					<Type>Normal</Type>
+					<Latitude>44.3030</Latitude>
+					<Longitude>9.2353</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+                        </App_Transition>
+			<App_Transition Name="TIGLO">
+                                <AppTr_Waypoint ID="1">
+					<Name>TIGLO</Name>
+					<Type>Normal</Type>
+					<Latitude>44.292778</Latitude>
+					<Longitude>9.386667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>6500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                        </App_Transition>
+		</Approach>
+		<Approach Name="ILSY28">
+			<App_Waypoint ID="1">
+				<Name>VARAP</Name>
+				<Type>Normal</Type>
+				<Latitude>44.322306</Latitude>
+				<Longitude>9.253583</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>GSE/D14</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3439</Latitude>
+				<Longitude>9.1560</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>GSE/D10</Name>
+				<Type>Normal</Type>
+				<Latitude>44.361472</Latitude>
+				<Longitude>9.075972</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3370</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>GSE/D6</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3824</Latitude>
+				<Longitude>8.9798</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2020</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW28</Name>
+				<Type>Runway</Type>
+                                <Latitude>44.408926</Latitude>
+				<Longitude>8.857414</Longitude>
+				<Speed>0</Speed>
+				<Altitude>13</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>GEN/R226</Name>
+				<Type>Normal</Type>
+				<Latitude>44.2815</Latitude>
+				<Longitude>8.8540</Longitude>
+				<Speed>200</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="7">
+				<Name>ANAKI</Name>
+				<Type>Normal</Type>
+				<Latitude>44.201167</Latitude>
+				<Longitude>8.725500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+			<App_Transition Name="TIGLO">
+                                <AppTr_Waypoint ID="1">
+					<Name>TIGLO</Name>
+					<Type>Normal</Type>
+					<Latitude>44.292833</Latitude>
+					<Longitude>9.386667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>GSE/D19</Name>
+					<Type>Normal</Type>
+					<Latitude>44.3194</Latitude>
+					<Longitude>9.2674</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                        </App_Transition>
+		</Approach>
+		<Approach Name="VORZ28">
+			<App_Waypoint ID="1">
+				<Name>SES/D19</Name>
+				<Type>Normal</Type>
+				<Latitude>44.322306</Latitude>
+				<Longitude>9.253583</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>SES/D11</Name>
+				<Type>Normal</Type>
+				<Latitude>44.361472</Latitude>
+				<Longitude>9.075972</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>SES/D8</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3778</Latitude>
+				<Longitude>9.0010</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2420</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>SES/D6</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3874</Latitude>
+				<Longitude>8.9570</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1700</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW28</Name>
+				<Type>Runway</Type>
+                                <Latitude>44.408926</Latitude>
+				<Longitude>8.857414</Longitude>
+				<Speed>0</Speed>
+				<Altitude>13</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>SES/D17</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>200</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+			<App_Transition Name="GIKUT">
+                                <AppTr_Waypoint ID="1">
+					<Name>SES/D21</Name>
+					<Type>Normal</Type>
+					<Latitude>44.172000</Latitude>
+					<Longitude>9.171167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>GSE/ARC18</Name>
+					<Type>Normal</Type>
+					<Latitude>44.2314</Latitude>
+					<Longitude>9.1799</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>SES/R110</Name>
+					<Type>Normal</Type>
+					<Latitude>44.3030</Latitude>
+					<Longitude>9.2353</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+                        </App_Transition>
+			<App_Transition Name="RIVAP">
+                                <AppTr_Waypoint ID="1">
+					<Name>RIVAP</Name>
+					<Type>Normal</Type>
+					<Latitude>44.283333</Latitude>
+					<Longitude>9.348889</Longitude>
+					<Speed>0</Speed>
+					<Altitude>6500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                        </App_Transition>
+		</Approach>
+		<Approach Name="VORY28">
+			<App_Waypoint ID="1">
+				<Name>GSE/D18</Name>
+				<Type>Normal</Type>
+				<Latitude>44.322306</Latitude>
+				<Longitude>9.253583</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>GSE/D10</Name>
+				<Type>Normal</Type>
+				<Latitude>44.361472</Latitude>
+				<Longitude>9.075972</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>GSE/D7</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3778</Latitude>
+				<Longitude>9.0010</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2420</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>GSE/D5</Name>
+				<Type>Normal</Type>
+				<Latitude>44.3874</Latitude>
+				<Longitude>8.9570</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1700</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW28</Name>
+				<Type>Runway</Type>
+                                <Latitude>44.408926</Latitude>
+				<Longitude>8.857414</Longitude>
+				<Speed>0</Speed>
+				<Altitude>13</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>GSE/D17</Name>
+				<Type>Normal</Type>
+				<Latitude>44.134667</Latitude>
+				<Longitude>8.803667</Longitude>
+				<Speed>200</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</App_Waypoint>
+			<App_Transition Name="GIKUT">
+                                <AppTr_Waypoint ID="1">
+					<Name>GSE/D20</Name>
+					<Type>Normal</Type>
+					<Latitude>44.172000</Latitude>
+					<Longitude>9.171167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>GSE/ARC18</Name>
+					<Type>Normal</Type>
+					<Latitude>44.2314</Latitude>
+					<Longitude>9.1799</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>SES/R110</Name>
+					<Type>Normal</Type>
+					<Latitude>44.3030</Latitude>
+					<Longitude>9.2353</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+                        </App_Transition>
+			<App_Transition Name="RIVAP">
+                                <AppTr_Waypoint ID="1">
+					<Name>RIVAP</Name>
+					<Type>Normal</Type>
+					<Latitude>44.283333</Latitude>
+					<Longitude>9.348889</Longitude>
+					<Speed>0</Speed>
+					<Altitude>6500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                        </App_Transition>
+		</Approach>
+	</Airport>
+</ProceduresDB>
